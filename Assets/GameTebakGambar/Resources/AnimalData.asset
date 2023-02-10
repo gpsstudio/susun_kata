@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: AnimalData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 19085d2882b3eb2448d8ae0431b1da36, type: 3}
+    answer: unta
+  - questionImage: {fileID: 21300000, guid: 10fda329796181444ba0e421a5f250de, type: 3}
+    answer: buaya
+  - questionImage: {fileID: 21300000, guid: 5da71aa091b5f3c448df624b2c2ae8b4, type: 3}
+    answer: gajah
+  - questionImage: {fileID: 21300000, guid: 8a0bfd28fe51e274d9b6b56ce71463f2, type: 3}
+    answer: hiu
+  - questionImage: {fileID: 21300000, guid: 06fd4bca5c002ca4d9ad5026d0dbfbcb, type: 3}
+    answer: ikan
+  - questionImage: {fileID: 21300000, guid: 4a3b2dc4b9ecf05488e93c5962205e90, type: 3}
+    answer: macan
+  - questionImage: {fileID: 21300000, guid: 834c35583ccc5704b845212e529c3de0, type: 3}
+    answer: monyet
+  - questionImage: {fileID: 21300000, guid: 65fb8fd9077efa842acf9e70caa082c8, type: 3}
+    answer: sapi
+  - questionImage: {fileID: 21300000, guid: 687d98e15cf87aa4a8d8eef508ef9c00, type: 3}
+    answer: singa
+  - questionImage: {fileID: 21300000, guid: d2c0bbf9e1b470e408f751e03f905d1d, type: 3}
+    answer: ular
+  - questionImage: {fileID: 21300000, guid: e522031310656d84088ac87a4a4dd405, type: 3}
+    answer: kelelawar
